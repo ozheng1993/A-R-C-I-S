@@ -4,9 +4,11 @@
 ## please email:M.Aty@ucf.edu for demo
 
 ## Citation
-    @article{oyarcis,
-      Author = {Ou Zheng and Yina Wu},
-      Title = {UCF-SST automated roadway conflicts identify system (A.R.C.I.S)},
-      Journal = {https://github.com/ozheng1993/A-R-C-I-S},
-      Year = {2019}
+    @misc{oyarcis,
+      author = {Ou Zheng and Yina Wu},
+      title = {UCF-SST automated roadway conflicts identify system (A.R.C.I.S)},
+      year = {2019},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/ozheng1993/A-R-C-I-S}}
     }
