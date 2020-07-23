@@ -5,7 +5,7 @@
 
 ## Citation
     @misc{oyarcis,
-      author = {Ou Zheng and Yina Wu},
+      author = {Ou,Zheng and Yina,Wu},
       title = {UCF-SST automated roadway conflicts identify system (A.R.C.I.S)},
       year = {2019},
       publisher = {GitHub},
