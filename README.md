@@ -1,13 +1,10 @@
 # A-R-C-I-S
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
-#### [Output Demo]
-[![drone](./droneMerge.gif)]
+#### ARCIS Merge Mutil-Drone video Demo
+[![drone](assets/droneMerge.gif)]
 
-
-#### videoStabilizer
-video Stabilizer for drone video
-#### [Output Demo]
-[![drone](./demo.gif)]
+#### videoStabilizer Demo
+[![drone](assets/demo.gif)]
 
 ## Requirements
 
