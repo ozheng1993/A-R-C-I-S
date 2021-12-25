@@ -1,7 +1,7 @@
 # A-R-C-I-S
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
 #### [Output Demo]
-[![drone](./demo.gif)]
+[![drone](./droneMerge.gif)]
 
 
 #### videoStabilizer
