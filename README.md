@@ -4,7 +4,7 @@
 ![droneMerge](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/droneMerge.gif)
 
 #### videoStabilizer Demo
-![droneDemo](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/demo.gif)
+![droneDemo](https://github.com/ozheng1993/videoStabilizer/blob/master/assets/demo.gif)
 
 ## Requirements
 
