@@ -1,10 +1,10 @@
 # A-R-C-I-S
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
 #### ARCIS Merge Mutil-Drone video Demo
-[![droneMerge](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/droneMerge.gif)]
+![droneMerge](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/droneMerge.gif)
 
 #### videoStabilizer Demo
-[![droneDemo](assets/demo.gif)]
+![droneDemo](https://github.com/ozheng1993/A-R-C-I-S/blob/master/asset/demo.gif)
 
 ## Requirements
 
