@@ -1,10 +1,10 @@
 # A-R-C-I-S
 ## UCF-SST Automated Roadway Conflicts Identify System (A.R.C.I.S)
 #### ARCIS Merge Mutil-Drone video Demo
-[![drone](assets/droneMerge.gif)]
+[![droneMerge](assets/droneMerge.gif)]
 
 #### videoStabilizer Demo
-[![drone](assets/demo.gif)]
+[![droneDemo](assets/demo.gif)]
 
 ## Requirements
 
@@ -33,14 +33,7 @@ Python 3.6+, pysimplegui,opencv-python and other common packages listed in `requ
 
 ## Contributing
 Contributions to this repository are welcome. Examples of things you can contribute:
-* update README
-* update user interface
-
-
-
-
-
-
+-TBD
 ## please email:M.Aty@ucf.edu for demo
 
 ## Citation
