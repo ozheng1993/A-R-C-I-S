@@ -44,7 +44,6 @@ Python 3.6+, pysimplegui,opencv-python and other common packages listed in `requ
 ## Contributing
 Contributions to this repository are welcome. Examples of things you can contribute:
 -TBD
-## please email:M.Aty@ucf.edu for demo
 
 ## Citation
       @article{zheng2019developing,
